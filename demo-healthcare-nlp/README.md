@@ -1,4 +1,4 @@
-Google Cloud - Healthcare NLP API
+# Google Cloud - Healthcare NLP API
 This repository serves as an example on how to use Google's Healthcare NLP API to extract information (entities, entityMentions, and relationships) from plain text documents. 
 
 Objective
