@@ -1,0 +1,36 @@
+{
+  "address": [
+    {
+      "city": "Anycity",
+      "district": "Anydistrict",
+      "line": [
+        "123 Main Street"
+      ],
+      "period": {
+        "start": "1990-12-05"
+      },
+      "postalCode": "12345",
+      "state": "CA",
+      "text": "123 Main Street Anycity, Anydistrict, CA 12345",
+      "type": "both",
+      "use": "home"
+    }
+  ],
+  "birthDate": "1980-12-05",
+  "gender": "female",
+  "id": "r77433dd-dkeuc-633743nfd-383nfdsjds732",
+  "name": [
+    {
+      "family": "Smith",
+      "given": [
+        "Darcy"
+      ],
+      "use": "official"
+    }
+  ],
+  "resourceType": "Patient",
+  "text": {
+    "status": "generated",
+    "div": "<div><p><b>Patient</b></p><p><b>Name</b>: Smith, Darcy</p><p><b>DateOfBirth</b>: 1980-12-05</p><p><b>Gender</b>: Female</p></div>"
+  }
+}
