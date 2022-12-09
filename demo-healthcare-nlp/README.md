@@ -26,7 +26,7 @@ Start within the terraform/ directory (if you'd like to automate the creation of
 terraform plan to plan out resource creations.
 terraform apply to create resources.
 terraform destroy to destroy resources once you're finished with this example.
-Note: The only resource that will not be deleted will be the de-identified dataset as that one was created via API. Make sure to manually delete it at the end.
+
 
 Create Cloud Function:
 Follow this guide to create a cloud function (either using GCP console or Cloud Shell)
